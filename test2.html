@@ -1,0 +1,14 @@
+<!doctype html>
+<html ng-app>
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body ng-init="names=['Jack','Hone','Hash']">
+	<input type="text" ng-model="name">{{name}}
+	<ul>
+		<li ng-repeat="personName in names">{{personName}}</li>
+	</ul>
+		<script src="angular-phonecat/app/lib/angular/angular.js"></script>
+</body>
+</html>

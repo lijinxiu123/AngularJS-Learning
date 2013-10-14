@@ -1,0 +1,21 @@
+<!doctype html>
+<html data-ng-app="">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body data-ng-controller="SimpleController">
+	Name:
+	<input type="text" data-ng-model="name">
+	<br>
+	<ul>
+		<li data-ng-repeat="cust in customers | filter:name | orderBy:'city'">{{ cust.name }}---{{ cust.city}}</li>
+	</ul>
+	<script src="angular-phonecat/app/lib/angular/angular.js"></script>
+	<script>
+	function SimpleController ($scope) {
+		$scope.customers=[{name:'John Smith',city:'Phoenix'},{name:'Jack',city:'Shenyang'},{name:'Tom',city:'NY'}]
+	}
+	</script>
+</body>
+</html>

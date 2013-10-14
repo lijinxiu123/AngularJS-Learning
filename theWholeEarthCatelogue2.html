@@ -1,0 +1,129 @@
+<!doctype html>
+<html ng-app="twec">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="css/normalize.css">
+	<title>Document</title>
+	<style>
+
+		html,body{
+			padding: 0;
+			margin: 0;
+			width: 100%;
+			background-color: #fafafa;
+		}
+		h1{
+			text-align: center;
+			font-size: 40px;
+			margin-bottom: 20px;
+		}
+		.container{
+			width: 600px;
+			margin: 20px auto ;
+			line-height: 50px;
+		}
+		.search{
+			height: 50px;
+			width: 600px;
+			margin: auto;
+			border: 1px solid 	#efefef;
+			font-size: 30px;	
+			-webkit-box-sizing: border-box;
+			   -moz-box-sizing: border-box;
+			        box-sizing: border-box;
+		}
+		ol{
+			margin-left: 1.5em;
+			font-size: 20px;
+			color: #444;
+		}
+		li{
+			border-bottom:1px solid #efefef;
+			padding-left: -1.5em;
+		}
+		hr{
+			background-color: #000000;
+			margin: 30px auto;
+		}
+		button{
+			background: #3096FC;
+			background: -webkit-linear-gradient(top, #3096fc 1%, #007bf6 100%);
+			border: 0;
+			color: #FFF;
+			padding: 5px 20px;
+			-webkit-border-radius: 2px;
+			        border-radius: 2px;
+		}
+		.next{
+			background: -webkit-linear-gradient(top, #acacac 1%, #999 100%);
+			border: 0;
+			color: #FFF;
+			padding: 5px 20px;
+			-webkit-border-radius: 2px;
+			        border-radius: 2px;
+			font-size: 16px;
+			margin-left: 10px;
+		}
+	</style>
+</head>
+<body ng-controller="actions">
+<ng-view></ng-view>
+
+
+<script src="angular-phonecat/app/lib/angular/angular.min.js"></script>
+<script>
+	var twec=angular.module('twec',[]),
+		controllers={};
+	controllers.actions=function($scope){
+		$scope.catalogue=[
+			{
+				name:'book',
+				page:100
+			},
+			{
+				name:'computer',
+				page:100
+			},
+			{
+				name:'art',
+				page:200
+			},
+			{
+				name:'human',
+				page:300
+			},
+			{
+				name:'product',
+				page:400
+			},
+			{
+				name:'design',
+				page:500
+			}
+		];
+		$scope.addCatalogue=function(){
+			$scope.catalogue.push({
+				name:$scope.newcatalogue.name,
+				page:$scope.newcatalogue.page
+			})
+		}
+	};
+	twec.controller(controllers);
+	twec.config(function($routeProvider){
+		$routeProvider
+			.when('/view1',
+				{
+					controller:'actions',
+					templateUrl:'partials/twec-view1.html'
+				})
+			.when('/view2',
+				{
+					controller:'actions',
+					templateUrl:'partials/twec-view2.html'
+				})
+			.otherwise({redirectTo:'/view1'});
+	})
+
+</script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+	<div class="container">
+		<h1>Change it!</h1>
+		<input type="text" class="search" ng-model="filter.name">
+				<ol>
+					<li ng-repeat="list in catalogue | filter:filter.name">{{ list.name|uppercase }}--p{{list.page}}</li>
+				</ol>
+		<hr>
+
+		Insert Area: <input type="text" ng-model="newcatalogue.name">
+		<br>
+		Insert Page: <input type="text" ng-model="newcatalogue.page">
+		<br>
+		<button ng-click="addCatalogue()">Change it</button>
+		<a href="#/view1" class="next">Last</a>
+	</div>

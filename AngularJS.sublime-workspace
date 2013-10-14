@@ -1,0 +1,1205 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"like",
+				"like-rate"
+			],
+			[
+				"web",
+				"web_like"
+			],
+			[
+				"ac",
+				"active-heart"
+			],
+			[
+				"redi",
+				"redirect_link"
+			],
+			[
+				"emial",
+				"email_tip"
+			],
+			[
+				"regis",
+				"register_next"
+			],
+			[
+				"success",
+				"success_tip"
+			],
+			[
+				"succe",
+				"success-save"
+			],
+			[
+				"length",
+				"length"
+			],
+			[
+				"selec",
+				"selector"
+			],
+			[
+				"comme",
+				"comment_app_area"
+			],
+			[
+				"invi",
+				"invitation-id"
+			],
+			[
+				"invia",
+				"invitation_id"
+			],
+			[
+				"old",
+				"old-password-tip"
+			],
+			[
+				"new",
+				"new-password"
+			],
+			[
+				"in",
+				"invitation_container"
+			],
+			[
+				"regi",
+				"register_wrapper"
+			],
+			[
+				"register",
+				"register-next"
+			],
+			[
+				"go",
+				"go-login"
+			],
+			[
+				"login",
+				"login_wrapper"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"content",
+				"content-wrapper"
+			],
+			[
+				"download",
+				"download-button"
+			],
+			[
+				"down",
+				"download_event_tracker"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"re",
+				"re_password"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"pre",
+				"pre_summary"
+			],
+			[
+				"at",
+				"at_official_name"
+			],
+			[
+				"jiathis",
+				"jiathis_tsina_url"
+			],
+			[
+				"utm",
+				"utm_source_name"
+			],
+			[
+				"reg",
+				"register-form"
+			],
+			[
+				"regit",
+				"register_form"
+			],
+			[
+				"count",
+				"count_tip"
+			],
+			[
+				"input",
+				"input_keyword"
+			],
+			[
+				"mobile",
+				"mobile_search"
+			],
+			[
+				"view",
+				"view_block"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ad",
+				"ad-logo"
+			],
+			[
+				"tit",
+				"title-area"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"plat",
+				"platform-wrapper"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"article",
+				"article_img"
+			],
+			[
+				"art",
+				"article_img"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"inline",
+				"inline"
+			],
+			[
+				"comment",
+				"comment_career"
+			],
+			[
+				"comm",
+				"comment_email"
+			],
+			[
+				"acti",
+				"activity-poster"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"email",
+				"email-tip"
+			],
+			[
+				"over",
+				"overlay"
+			],
+			[
+				"overla",
+				"overlay-close"
+			],
+			[
+				"button",
+				"button-overlay"
+			],
+			[
+				"quote",
+				"quote-wrapper"
+			],
+			[
+				"first-",
+				"first-of-type"
+			],
+			[
+				"target",
+				"target_text"
+			],
+			[
+				"menu-",
+				"menu-button"
+			],
+			[
+				"u",
+				"uid"
+			],
+			[
+				"jia",
+				"jiathis_link_head"
+			],
+			[
+				"fir",
+				"first_cover_image"
+			],
+			[
+				"crea",
+				"createElement"
+			],
+			[
+				"bor",
+				"border-box"
+			],
+			[
+				"detect",
+				"detectmob"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"artic",
+				"article-title"
+			],
+			[
+				"can",
+				"cancel-edit-comment"
+			],
+			[
+				"edit",
+				"edit_comment"
+			],
+			[
+				"button-sma",
+				"button-small-cancel"
+			],
+			[
+				"quote_w",
+				"quote_wrapper"
+			],
+			[
+				"bai",
+				"baidu_share_abstract"
+			],
+			[
+				"baidu_",
+				"baidu_share_abstract"
+			],
+			[
+				"baidu",
+				"baidu_share_title"
+			],
+			[
+				"hot",
+				"hot-apps"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"window",
+				"window_height"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"show",
+				"showTag"
+			],
+			[
+				"backgroud-",
+				"background-color"
+			],
+			[
+				"toggle",
+				"toggleClass"
+			],
+			[
+				"data",
+				"data-original"
+			],
+			[
+				"tinym",
+				"tinymce"
+			],
+			[
+				"last",
+				"last-page"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"tag",
+				"tag2"
+			],
+			[
+				"user",
+				"user_name"
+			],
+			[
+				"com",
+				"comment_info"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"shift",
+				"shift-left"
+			],
+			[
+				"arti",
+				"article-title"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"he",
+				"header	<header>"
+			],
+			[
+				"side",
+				"sideStatus"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"not",
+				"not-active"
+			],
+			[
+				"act",
+				"active-platform-button"
+			],
+			[
+				"A",
+				"APlatBtn"
+			],
+			[
+				"platform",
+				"platform-info-name"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"iphone",
+				"iphone-platform"
+			],
+			[
+				"ff",
+				"ffb400"
+			],
+			[
+				"artile",
+				"article-title"
+			],
+			[
+				"o",
+				"ovx	overflow-x: ${1:hidden};"
+			],
+			[
+				"account",
+				"account_manage"
+			],
+			[
+				"active",
+				"active-tag"
+			],
+			[
+				"json",
+				"jsonFormat"
+			],
+			[
+				"app",
+				"app-title"
+			],
+			[
+				"body",
+				"bodyScrollTop"
+			],
+			[
+				"more",
+				"more-pic"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"f",
+				"ffb400"
+			],
+			[
+				"error",
+				"error_plate"
+			],
+			[
+				"err",
+				"error_plate"
+			],
+			[
+				"ero",
+				"error_plate"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"ro",
+				"rotate"
+			],
+			[
+				"android",
+				"androidnav"
+			],
+			[
+				"inpt",
+				"inputiphonenav"
+			],
+			[
+				"do",
+				"do-edit"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test.html",
+			"settings":
+			{
+				"buffer_size": 97,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Chrome.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"format",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML5"
+			],
+			[
+				"form",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"for",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"pretty",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"tag",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pre",
+				"HTMLPrettify"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"train",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"forma",
+				"Format Code"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascript",
+				"Format: Javascript"
+			],
+			[
+				"js",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"syn:ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"syntax:ht",
+				"Set Syntax: HTML5"
+			],
+			[
+				"pal",
+				"Package Control: List Packages"
+			],
+			[
+				"clip",
+				"Clipboard History"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"cpi",
+				"Emmet: Select Previous Item"
+			],
+			[
+				"aline",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"defa",
+				"Preferences: Settings - Default"
+			],
+			[
+				"document",
+				"Set Syntax: Rd (R Documentation)"
+			],
+			[
+				"emmet",
+				"Emmet: Rename Tag"
+			],
+			[
+				"eemt",
+				"Emmet: Rename Tag"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"remoc",
+				"Package Control: Remove Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"Package Control.sublime-package",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"Package Control.sublime-package",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/templates/footer.html",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/templates/survey/web_feedback.html",
+		"/Users/JinxiuLee/Desktop/sssss.html",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/static/js/jquery.lazyload.js",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/static/css/login.css",
+		"/Users/JinxiuLee/Desktop/after",
+		"/Users/JinxiuLee/Desktop/before",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/templates/auth/information.html",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/templates/base.html",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/templates/search_result.html",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/static/css/before",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/static/css/after",
+		"/Users/JinxiuLee/Desktop/article_iphone.html",
+		"/Users/JinxiuLee/Desktop/android",
+		"/Users/JinxiuLee/Desktop/ios",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/templates/activity/activity.html",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/templates/auth/change_password.html",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/templates/auth/change_password",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/templates/auth/pretty_login.html",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/media/css/normalize.css",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/media/css/responsive.css",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/media/css/base.css",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/media/css/detailPage.css",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/media/css/listPage.css",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/static/js/detailScript.js",
+		"/Users/JinxiuLee/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/JinxiuLee/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/JinxiuLee/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/JinxiuLee/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/templates/article_iphone.html",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/media/js/detailScript.js",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/media/js/global.js",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/media/js/listScript.js",
+		"/Users/JinxiuLee/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/templates/auth/weibo_sign_up.html",
+		"/Users/JinxiuLee/Desktop/2",
+		"/Users/JinxiuLee/Desktop/1",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/templates/articleList_iphone.html",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/templates/articleList_android.html",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/templates/article_android.html",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/media/css/2",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/media/css/1",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/media/js/target-script-min.js",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/templates/activity/zhongzi_activity.html",
+		"/Users/JinxiuLee/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/templates/activity.html",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/media/js/tinymce/tinymce.min.js",
+		"/Users/JinxiuLee/Desktop/android.html",
+		"/Users/JinxiuLee/Desktop/test.html",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/templates/auth/auth.html",
+		"/Users/JinxiuLee/Desktop/QQ20130813-3@2x.png",
+		"/Users/JinxiuLee/Desktop/lz.html",
+		"/Users/JinxiuLee/Desktop/nice.html",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/templates/survey/mobile_feedback.html",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/templates/survey/feedback.html",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/templates/survey.html",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/templates/success.html",
+		"/Users/JinxiuLee/Desktop/designfestival.html",
+		"/Volumes/Macintosh HD/Users/JinxiuLee/Github/BriShare/book_share.css",
+		"/Users/JinxiuLee/Github/BriShare/book_share.css",
+		"/Users/JinxiuLee/Library/Application Support/Sublime Text 2/Packages/HTML-CSS-JS Prettify/Default (OSX).sublime-keymap",
+		"/Users/JinxiuLee/Library/Application Support/Sublime Text 2/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/JinxiuLee/Desktop/1.html",
+		"/Users/JinxiuLee/Desktop/hi.css",
+		"/Users/JinxiuLee/Desktop/index.html",
+		"/Users/JinxiuLee/Desktop/xmlajax.html",
+		"/Users/JinxiuLee/Desktop/ajax.html",
+		"/Users/JinxiuLee/Desktop/k.html",
+		"/Users/JinxiuLee/Desktop/test-width.html",
+		"/Users/JinxiuLee/Desktop/ajax.txt",
+		"/Users/JinxiuLee/Coding/Missing Manual/chapter12/my-googlemap.html",
+		"/Users/JinxiuLee/Desktop/inline-block.html",
+		"/Users/JinxiuLee/Desktop/inline-block",
+		"/Users/JinxiuLee/Desktop/test2.html",
+		"/Users/JinxiuLee/Github/Zuimei2/new-article.html",
+		"/Users/JinxiuLee/Github/Zuimei2/article-manage.html",
+		"/Users/JinxiuLee/Github/weikan/website/Weikan/index.html",
+		"/Users/JinxiuLee/Desktop/bookshelf_style_for_convention.css",
+		"/Users/JinxiuLee/Github/weikan/website/Weikan/css/style.css",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/templates/detailScript.script",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/media/css/style.css",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/media/css/home.css",
+		"/Users/JinxiuLee/Github/Nice/imbalance/loop_single.php",
+		"/Users/JinxiuLee/Desktop/one.css",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/templates/test.html",
+		"/Users/JinxiuLee/www/nicesite/nicesite/nicesite/nicesite/templates/test",
+		"/Users/JinxiuLee/Github/Nice/imbalance.css",
+		"/Users/JinxiuLee/Coding/MM_JAVASCRIPT2E/chapter12/my-googlemap.html",
+		"/Users/JinxiuLee/Github/Zuimei2/css/normalize.css",
+		"/Users/JinxiuLee/Github/Zuimei2/css/base.css",
+		"/Users/JinxiuLee/Github/Zuimei2/edit-article.html",
+		"/Users/JinxiuLee/Github/Zuimei2/test3.html",
+		"/Users/JinxiuLee/Github/Zuimei2/new-collection.html",
+		"/Users/JinxiuLee/Github/Zuimei2/suggest-app.html",
+		"/Users/JinxiuLee/Github/Zuimei2/user-manage.html",
+		"/Users/JinxiuLee/Github/Zuimei2/login.html",
+		"/Users/JinxiuLee/Github/Zuimei2/add-user.html",
+		"/Users/JinxiuLee/Github/Zuimei2/page.html",
+		"/Users/JinxiuLee/Github/Zuimei2/css/style.css",
+		"/Users/JinxiuLee/Desktop/test",
+		"/Users/JinxiuLee/Library/Application Support/Sublime Text 2/Packages/Html Export/HtmlExport.sublime-settings",
+		"/Users/JinxiuLee/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/JinxiuLee/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/JinxiuLee/Library/Application Support/Sublime Text 2/Packages/User/HtmlExport.sublime-settings",
+		"/Users/JinxiuLee/Library/Application Support/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+		"/Users/JinxiuLee/Github/Zuimei2/index.html",
+		"/Users/JinxiuLee/Github/New Nice App/new-article.html",
+		"/Users/JinxiuLee/Github/Zuimei2/android.html",
+		"/Users/JinxiuLee/Github/Zuimei2/test2.html",
+		"/Users/JinxiuLee/Github/Zuimei2/test.html",
+		"/Users/JinxiuLee/Github/Zuimei2/service-mobile.html",
+		"/Users/JinxiuLee/Github/New Nice App/css/style.css",
+		"/Users/JinxiuLee/Github/New Nice App/css/base.css",
+		"/Users/JinxiuLee/Github/New Nice App/css/normalize.css",
+		"/Users/JinxiuLee/Github/New Nice App/css/style2.css",
+		"/Users/JinxiuLee/Github/New Nice App/add-user.html",
+		"/Users/JinxiuLee/Github/New Nice App/android.html",
+		"/Users/JinxiuLee/Github/New Nice App/article-manage.html",
+		"/Users/JinxiuLee/Github/New Nice App/user-manage.html",
+		"/Users/JinxiuLee/Github/New Nice App/suggest-app.html",
+		"/Users/JinxiuLee/Github/New Nice App/page.html",
+		"/Users/JinxiuLee/Github/New Nice App/login.html",
+		"/Users/JinxiuLee/Github/New Nice App/index.html",
+		"/Users/JinxiuLee/Github/New Nice App/css/style2.html",
+		"/Users/JinxiuLee/Github/Zuimei2/android-page.html",
+		"/Users/JinxiuLee/Desktop/Working/Bootstrap/bootstrap/css/bootstrap-responsive.css",
+		"/Users/JinxiuLee/Desktop/1.css",
+		"/Volumes/Macintosh HD/Users/JinxiuLee/Github/Amway/android.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"img-loading",
+			"web-like",
+			"width",
+			"like-rate",
+			"active-heart",
+			"50",
+			"12",
+			"喜欢",
+			"$(this)",
+			"like",
+			"$mobile_like.",
+			"$mobile_like",
+			"like",
+			"web",
+			"png",
+			"jpg",
+			"png",
+			"jpg",
+			"png",
+			"mobile",
+			"like",
+			"web",
+			"mobile",
+			"like",
+			"like-rate",
+			"web",
+			"like-counts",
+			"like",
+			".anonymous-comment-area",
+			"anonymous-comment",
+			"anonymous-comment-wrapper",
+			"anonymous-comment-area",
+			"comment-area",
+			"click-heart",
+			"third",
+			"like-rate",
+			"60",
+			"30",
+			"100% auto",
+			"left",
+			"heart-rate",
+			"like-rate",
+			"heart-rate",
+			"click-heart",
+			"(){\n",
+			"click-heart",
+			"click-hear",
+			"click-heart",
+			"点喜欢",
+			"article-img",
+			"content-card",
+			"332px",
+			"590px",
+			" 120px",
+			"<a href=\"/app/{{ item.id }}?category={{ categoryID }}\" target=\"_blank\">\n                                            <img data-original=\"{{ item.geticon }}\" src=\"/static/img/img-loading.png\" alt=\"\">\n                                            <span class=\"mask\"></span>\n                                        </a>",
+			"<div class=\"article-title\">\n                                    <div class=\"app-icon\">",
+			"<div class=\"article-title\">",
+			"<div class=\"article-title\">\n                                    <div class=\"app-icon\">\n                                        <a href=\"/app/{{ item.id }}?category={{ categoryID }}\" target=\"_blank\">\n                                            <img data-original=\"{{ item.geticon }}\" src=\"/static/img/img-loading.png\" alt=\"\">\n                                            <span class=\"mask\"></span>\n                                        </a>\n                                    </div>\n                                    <a href=\"/app/{{ item.id }}?category={{ categoryID }}\" class=\"app-title\" target=\"_blank\">\n                                        <h1>{{ item.title }}<span class=\"dash\">—</span><span class=\"sub-title\">{{ item.sub_title }}</span></h1>\n                                    </a>\n                                </div>",
+			"hot-app-icon",
+			".app-icon img",
+			".app-icon img\n",
+			"10px",
+			"50",
+			"app-icon",
+			"icon",
+			" class=\"app-icon-link\"",
+			"app-icon-link",
+			"-link",
+			".app-icon",
+			"app-icon",
+			"50",
+			".hot-app-",
+			".mask",
+			"175px",
+			"177",
+			"span",
+			"icon",
+			"mask",
+			"icon",
+			"喜欢",
+			"1.9",
+			".like",
+			"div",
+			"like",
+			"display: none",
+			"hide",
+			"one-click",
+			"add-weixin",
+			"like",
+			".like",
+			"like",
+			"255",
+			"0",
+			"Mobile",
+			"comment",
+			"apple-mobile-web-app-capable",
+			"images",
+			"box-si",
+			"anonymous-comment-area",
+			"anonymous",
+			"padding:8",
+			"anonymous-comment-area",
+			"anony",
+			"anonymous-comment-card",
+			"autolink",
+			"anonymous-comment-card",
+			"app-icon",
+			"first_cover_image",
+			"app-icon",
+			"content-card",
+			"item.geticon",
+			"app-icon",
+			"<img data-original=\"{{ item.geticon }}\" src=\"/static/img/img-loading.png\" alt=\"\">",
+			"app-icon",
+			"热门",
+			".app-icon i",
+			"hot-app",
+			"hide",
+			"0 2px 2px rgba(0, 0, 0, 0.05)",
+			"comment-app-area",
+			"anonymous_comment_content",
+			"anonymous",
+			".edit",
+			"<li>",
+			"li",
+			" class=\"account_settings\"",
+			"意见反馈",
+			"您的评论已经成功发送给小美!"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"like-rate",
+			"static/img",
+			"Email",
+			"/static/img",
+			"/static/css",
+			"/static/img",
+			"');\n",
+			"txweibo",
+			"qzone",
+			"class=\"menu-button\"",
+			"cover_5.jpg",
+			"<span class=\"dash\">—</span>",
+			"480",
+			"ffa200",
+			"ffb400",
+			"f90",
+			"6",
+			"7",
+			"sub-title",
+			"slider",
+			".3",
+			"search-button",
+			"platform",
+			"ffb400",
+			"iphone",
+			"id=\"content-wrapper\"",
+			"placeholder=\"搜索暂未实现^_^\"",
+			"$('.manage-list').toggle(100);",
+			"placeholder=\"搜索最美应用\"",
+			"cols=\"90\"",
+			"android-page.html",
+			"",
+			"android-page.html",
+			"name=\"tag\"",
+			"<input type=\"checkbox\" name=\"catalogue\" class=\"cata\">",
+			"<img data-original=\"img/zuimei-qr.png\" src-=\"img/img-loading.png\" class=\"app-qr-img \" alt=\"\">",
+			"<img data-original=\"img/app-img/rise.jpg\" src=\"img/img-loading.png\" alt=\"\">",
+			"",
+			"发布应用",
+			"header-date",
+			"header-plate",
+			"header-username",
+			"header-article-title",
+			"体验之美",
+			"rotate-quote-mark",
+			"",
+			"<a href=\"page.html\"><img src=\"img/app-icon/icon-rise.jpg\" alt=\"\"></a>",
+			"<a href=\"page.html\"><h1 class=\"app-title\">Rise Alarm Clock-极简风格的闹钟</h1></a>",
+			"h5",
+			"<div class=\"edit-area\"><span class=\"edit\"><a href=\"#\">修改</a></span>\n						<span class=\"separator\">|</span>\n						<span class=\"delete\"><a href=\"#\">删除</a></span></div>",
+			"<div class",
+			"<span class=\"delete\"><a href=\"#\">删除</a></span>",
+			"<span class=\"edit\"><a href=\"#\">修改</a></span>",
+			"#585858",
+			"525252",
+			"page.html",
+			"Bri 体验科技",
+			"http://share.brixd.com/",
+			"Bri 体验科技",
+			"class=\"job-des\"",
+			"class=\"job-title\"",
+			"<br/>",
+			"Bri Experience Design & Development",
+			"603-605",
+			"100080",
+			"#FF9900",
+			"normal.css",
+			"FF9900",
+			"<body onload=\"detect()\">",
+			"share.brixd.com",
+			"toggle(\"slow\")",
+			"m_refer",
+			"bottom1",
+			"top1",
+			"",
+			"detail-list-item",
+			"detail-list"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 97,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"project": "AngularJS.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

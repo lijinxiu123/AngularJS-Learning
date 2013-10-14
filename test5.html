@@ -1,0 +1,100 @@
+<!doctype html>
+<html ng-app="demoApp">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		body{
+			margin: 0;
+			padding: 0;
+		}
+		.nav{
+			background-image: url('img/bg.png');
+			display: block;
+			height: 44px;
+			width: 100%;
+			
+		}
+		.list{
+			display: block;
+			width: 500px;
+			height: 44px;
+			margin: auto;
+			list-style: none;
+			text-align: center;
+			overflow: hidden;
+			line-height: 44px;
+		}
+		.list li{
+			float: left;
+		}
+		.list a{
+			display: block;
+			width: 100px;
+			height: 44px;
+			margin: auto;
+			line-height: 44px;
+			text-decoration: none;
+		}
+	</style>
+</head>
+<body ng-controller="SimpleController">
+<div class="nav">
+	<ul class="list">
+		<li><a href="test6.html">Home</a></li>
+		<li><a href="">Pages</a></li>
+		<li><a href="">Next</a></li>
+		<li><a href="">Last</a></li>
+	</ul>
+</div>
+<div>
+	<div ng-view=""></div>
+</div>
+	<script src="angular-phonecat/app/lib/angular/angular.min.js"></script>
+	<script>
+
+		var demoApp= angular.module('demoApp',[]);
+		var controllers={};
+
+		controllers.SimpleController=function ($scope){
+			$scope.customers=[
+				{
+					name:'Jack',
+					city:'Shenyang'
+				},
+				{
+					name:'Shaolin',
+					city:'Guangdong'
+				},
+				{
+					name:'Chengjie',
+					city:'US'
+				}
+			];
+			$scope.addCustomer=function(){
+				$scope.customers.push(
+					{
+						name:$scope.newCustomer.name,
+						city:$scope.newCustomer.city
+					})
+			}
+		}
+		demoApp.controller(controllers);
+		demoApp.config(function($routeProvider){
+			$routeProvider
+				.when('/view1',
+					{
+						controller:'SimpleController',
+						templateUrl:'partials/view1.html'
+					})
+				.when('/view2',
+					{
+						controller:'SimpleController',
+						templateUrl:'partials/view2.html'
+					}
+				)
+				.otherwise({redirectTo:'/view1'});
+		});
+	</script>
+</body>
+</html>

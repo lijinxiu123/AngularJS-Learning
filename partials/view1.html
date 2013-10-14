@@ -1,0 +1,28 @@
+<div class="container">
+	<h2>view1</h2>
+	Name:<input type="text" ng-model="filter.name">
+	<br>
+	<br>
+	Typing:{{filter.name}}
+	<br>
+	<br>
+	New Guests:
+	<br>
+	<br>
+	Customer:
+	<br>
+	<input type="text" ng-model="newCustomer.name">
+	<br>
+	City:
+	<br>
+	<input type="text" ng-model="newCustomer.city">
+	<br>
+	<button ng-click="addCustomer()">Add Customer</button>
+	<br>
+	<br>
+	Database:
+	<ul>
+		<li ng-repeat="cust in customers | filter:filter.name | orderBy:'city'">{{cust.name}}</li>
+	</ul>
+	<a href="#/view2">View2</a>
+</div>
